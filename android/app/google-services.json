@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "720747846768",
+    "firebase_url": "https://white-woof-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "white-woof",
+    "storage_bucket": "white-woof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720747846768:android:978310a655e82e928328b5",
+        "android_client_info": {
+          "package_name": "com.Nalabuild.WhiteWoof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720747846768-e3s7t7norvcov2t3u7q09d5514p787ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Nalabuild.WhiteWoof",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "720747846768-241il859u4b6fj00odp5flljdbv5ufgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLr7ZdHoH6F0qf_Zs2sIxlaL0ZlKkzX-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720747846768-241il859u4b6fj00odp5flljdbv5ufgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720747846768-7cf5k6ccomg4108o9b3dhf5rj2n220hb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Nalabuild.whitewoof5"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720747846768:android:0dbbf9acbcdeb7d48328b5",
+        "android_client_info": {
+          "package_name": "com.Nalabuild.whitewoof5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720747846768-5usg09hb45a7or4ru9g5tdjvvovu3rl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Nalabuild.whitewoof5",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "720747846768-241il859u4b6fj00odp5flljdbv5ufgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLr7ZdHoH6F0qf_Zs2sIxlaL0ZlKkzX-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720747846768-241il859u4b6fj00odp5flljdbv5ufgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720747846768-7cf5k6ccomg4108o9b3dhf5rj2n220hb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Nalabuild.whitewoof5"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720747846768:android:7caaff340beee0a08328b5",
+        "android_client_info": {
+          "package_name": "nalabuild.white.woof.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720747846768-go0u6kvp2gbgnglt56mpnddjgrsvn86g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nalabuild.white.woof.apps",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "720747846768-241il859u4b6fj00odp5flljdbv5ufgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLr7ZdHoH6F0qf_Zs2sIxlaL0ZlKkzX-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720747846768-241il859u4b6fj00odp5flljdbv5ufgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720747846768-7cf5k6ccomg4108o9b3dhf5rj2n220hb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Nalabuild.whitewoof5"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
