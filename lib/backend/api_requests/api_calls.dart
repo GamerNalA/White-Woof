@@ -117,18 +117,18 @@ class SendEmailVerCall {
     }
   ],
   "from": {
-    "email": "NalaBuild@outlook.com"
+    "email": ""
   },
-  "template_id": "d-cb55cd113c0f44a7914096ce25578f49"
+  "template_id": "
 }''';
     return ApiManager.instance.makeApiCall(
       callName: 'SendEmailVer',
-      apiUrl: 'https://api.sendgrid.com/v3/mail/send',
+      apiUrl: '',
       callType: ApiCallType.POST,
       headers: {
         'Content-Type': 'application/json',
         'Authorization':
-            'Bearer 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',
+            '',
       },
       params: {},
       body: body,
